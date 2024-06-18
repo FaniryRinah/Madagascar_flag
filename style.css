@@ -1,0 +1,26 @@
+.main_box {
+    background-color: white;
+    width: 900px;
+    height: 600px;
+    position: relative;
+    border: 5px black solid;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.red {
+    background-color: #F9423A;
+    box-sizing: content-box;
+    width: 60%;
+    float: right;
+
+    height: 300px;
+}
+
+.green {
+    background-color: #00843D;
+    box-sizing: content-box;
+    width: 60%;
+    float: right;
+    height: 300px;
+}
